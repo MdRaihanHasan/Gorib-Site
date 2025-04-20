@@ -19,7 +19,7 @@ gulp.task("js", function () {
 // Build html files
 gulp.task("html", function () {
   return gulp
-    .src("./public/**/*")
+    .src("./public/**/*.html")
     .pipe(htmlclean())
     .pipe(
       htmlmin({
