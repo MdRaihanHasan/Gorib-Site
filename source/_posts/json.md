@@ -74,8 +74,8 @@ plugins:
 
 ```json {.wrap}
 {
-  "url": "https://cheatsheets.zip",
-  "msg": "Hi,\n\"CheatSheets.zip\"",
+  "url": "https://gorib.site",
+  "msg": "Hi,\n\"Gorib.site\"",
   "intro": "Share quick reference and cheat sheet for developers."
 }
 ```
